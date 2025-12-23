@@ -94,6 +94,20 @@ Paper's List is an application designed to facilitate crowd-sourcing and discove
 ## Contributing
 We welcome contributions from the community. Feel free to submit bug reports, feature requests, or even pull requests. Please follow our [Contribution Guidelines](CONTRIBUTING.md) for a smooth collaboration process.
 
+## ScreenShots 
+
+## Splash Screen 
+
+<img width="1440" height="900" alt="Screenshot 2025-12-23 at 4 52 14 PM" src="https://github.com/user-attachments/assets/d9d92e58-2951-432b-9f7d-c5b5c0a5e634" />
+
+## HomePage 
+
+
+<img width="1440" height="900" alt="Screenshot 2025-12-23 at 4 55 09 PM" src="https://github.com/user-attachments/assets/97f5c8ba-6980-472b-86f5-53f019a83823" />
+
+
+<img width="1440" height="900" alt="Screenshot 2025-12-23 at 4 55 18 PM" src="https://github.com/user-attachments/assets/598e05a3-f4e1-40b7-9d09-901d41ef3a6a" />
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
