@@ -108,6 +108,11 @@ We welcome contributions from the community. Feel free to submit bug reports, fe
 
 <img width="1440" height="900" alt="Screenshot 2025-12-23 at 4 55 18 PM" src="https://github.com/user-attachments/assets/598e05a3-f4e1-40b7-9d09-901d41ef3a6a" />
 
+## Adding an Event 
+
+<img width="1440" height="900" alt="Screenshot 2025-12-23 at 4 57 21 PM" src="https://github.com/user-attachments/assets/9454a946-f2d2-49cf-a422-e0f577c75ad5" />
+
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
